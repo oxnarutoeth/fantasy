@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: cursive;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+/* styles for the hero, features and related sections have been moved
+   into `src/components/Hero.css` so they are scoped to the component.
+   keep global file minimal to avoid duplication. */
+/* About.css */

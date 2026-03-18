@@ -1,0 +1,19 @@
+.premium-clients {
+  padding: 2rem 0;
+}
+
+.clients-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1rem;
+}
+
+.client-card {
+  text-align: center;
+}
+
+.client-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
